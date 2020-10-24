@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Get started by seeing if this is in git{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
